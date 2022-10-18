@@ -1,0 +1,1 @@
+echo readFile"main.nim"
