@@ -1,0 +1,1 @@
+writeFile "example.txt", "Hello"
